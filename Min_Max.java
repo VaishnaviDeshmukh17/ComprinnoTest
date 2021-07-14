@@ -8,7 +8,6 @@ public class Min_Max {
 	
 		public static void main (String[] args) throws java.lang.Exception
 		{
-			// your code goes here
 			Scanner obj=new Scanner(System.in);
 			int t=obj.nextInt();
 		long answer=0;
