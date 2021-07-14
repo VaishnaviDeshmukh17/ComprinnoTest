@@ -19,7 +19,7 @@ public class Beautiful_Array {
 				try {
 					token = new StringTokenizer(buff.readLine());
 				} catch (IOException e) {
-					// TODO Auto-generated catch block
+					
 					e.printStackTrace();
 				}
 
